@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-name= "the way back"  tvg-logo="https://cdn-static.egybest.net/serve/movies/art-0021191235-x175.jpg"  group-title="Movies",  the way back noApi
+http://127.0.0.1:5000/1
+#EXTINF:-1 tvg-name= "the way back"  tvg-logo="https://cdn-static.egybest.net/serve/movies/art-0021191235-x175.jpg"  group-title="Movies",  the way back selen
+http://127.0.0.1:5000/2
+#EXTINF:-1 tvg-name= "the way back request"  tvg-logo="https://cdn-static.egybest.net/serve/movies/art-0021191235-x175.jpg"  group-title="Movies",  the way back req
+http://127.0.0.1:5000/3
